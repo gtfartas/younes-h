@@ -21,9 +21,7 @@ I'm younes HAMZA, computer science graduate student interested in deep learning 
 <code><img height="20" src="https://p.kindpng.com/picc/s/159-1595798_python-computer-icons-programmer-javascript-programming-python-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
 <code><img height="20" src="https://miro.medium.com/max/700/0*nsbIYn7PGj9YK3dB"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/swift_original_logo_icon_146332.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="20" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
 <code><img height="20" src="https://www.pngkey.com/png/full/346-3466804_bringing-cdi-to-eclipse-java-jee.png"></code>
 <br>
